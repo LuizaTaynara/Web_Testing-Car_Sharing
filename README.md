@@ -1,7 +1,5 @@
 ## 🚗 Web Testing Project – Car Sharing Platform
 
----
-
 ### Objective
 Planning, documentation, and execution of testing activities for a car-sharing web application, focusing on functional validation, usability, responsiveness, and cross-browser compatibility.
 

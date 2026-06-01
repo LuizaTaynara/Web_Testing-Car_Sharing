@@ -59,7 +59,7 @@ Planning, documentation, and execution of testing activities for a car-sharing w
 - [**Logic Of Reserve Resources**](https://docs.google.com/spreadsheets/d/1qhbdoiGSjDq55D5XpWxW1eFtm4WGnFv-/edit?gid=199732973#gid=199732973)
 
 #### ✔️ Bug Reports
-- [**JIRA**](https://taynaraluiza.atlassian.net/jira/software/c/projects/S3/list?jql=project+%3D+S3+ORDER+BY+cf%5B10019%5D+ASC&atlOrigin=eyJpIjoiYzY2NGExMGE4NTgxNDEyZThlNWY2ZTkxMjI5NmQ2ZGIiLCJwIjoiaiJ9)
+- [**JIRA**](https://drive.google.com/file/d/1Ovu2Cx0Il8rW_KwYzu1mwQww56u0Z2TD/view?usp=sharing)
 
 ---
 

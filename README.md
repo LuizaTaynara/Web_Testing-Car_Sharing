@@ -51,13 +51,15 @@ Planning, documentation, and execution of testing activities for a car-sharing w
 ### Artifacts Produced
 
 #### ✔️ Test Checklist
-
+- [**Layout Tests**](https://docs.google.com/spreadsheets/d/1qhbdoiGSjDq55D5XpWxW1eFtm4WGnFv-/edit?gid=1230428894#gid=1230428894)
+- [**"Payment Method" and "Add Card" Tests**](https://docs.google.com/spreadsheets/d/1qhbdoiGSjDq55D5XpWxW1eFtm4WGnFv-/edit?gid=1004700816#gid=1004700816)
 
 #### ✔️ Test Cases
-
+- [**Logic Of The "Book" Button**](https://docs.google.com/spreadsheets/d/1qhbdoiGSjDq55D5XpWxW1eFtm4WGnFv-/edit?gid=1956742448#gid=1956742448)
+- [**Logic Of Reserve Resources**](https://docs.google.com/spreadsheets/d/1qhbdoiGSjDq55D5XpWxW1eFtm4WGnFv-/edit?gid=199732973#gid=199732973)
 
 #### ✔️ Bug Reports
-
+- [**JIRA**](https://taynaraluiza.atlassian.net/jira/software/c/projects/S3/list?jql=project+%3D+S3+ORDER+BY+cf%5B10019%5D+ASC&atlOrigin=eyJpIjoiYzY2NGExMGE4NTgxNDEyZThlNWY2ZTkxMjI5NmQ2ZGIiLCJwIjoiaiJ9)
 
 ---
 
